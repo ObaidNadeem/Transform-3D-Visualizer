@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Transform-3D/static/css/main.428e87fd.chunk.css",
+    "main.js": "/Transform-3D/static/js/main.a96055ce.chunk.js",
+    "main.js.map": "/Transform-3D/static/js/main.a96055ce.chunk.js.map",
+    "runtime-main.js": "/Transform-3D/static/js/runtime-main.cbb72bc1.js",
+    "runtime-main.js.map": "/Transform-3D/static/js/runtime-main.cbb72bc1.js.map",
+    "static/js/2.157f249b.chunk.js": "/Transform-3D/static/js/2.157f249b.chunk.js",
+    "static/js/2.157f249b.chunk.js.map": "/Transform-3D/static/js/2.157f249b.chunk.js.map",
+    "static/js/3.1196632e.chunk.js": "/Transform-3D/static/js/3.1196632e.chunk.js",
+    "static/js/3.1196632e.chunk.js.map": "/Transform-3D/static/js/3.1196632e.chunk.js.map",
+    "index.html": "/Transform-3D/index.html",
+    "static/css/main.428e87fd.chunk.css.map": "/Transform-3D/static/css/main.428e87fd.chunk.css.map",
+    "static/js/2.157f249b.chunk.js.LICENSE.txt": "/Transform-3D/static/js/2.157f249b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbb72bc1.js",
+    "static/js/2.157f249b.chunk.js",
+    "static/css/main.428e87fd.chunk.css",
+    "static/js/main.a96055ce.chunk.js"
+  ]
+}
