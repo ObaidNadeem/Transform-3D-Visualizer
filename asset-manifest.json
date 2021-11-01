@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Transform-3D-Visualizer/static/css/main.428e87fd.chunk.css",
-    "main.js": "/Transform-3D-Visualizer/static/js/main.a96055ce.chunk.js",
-    "main.js.map": "/Transform-3D-Visualizer/static/js/main.a96055ce.chunk.js.map",
+    "main.js": "/Transform-3D-Visualizer/static/js/main.ede01476.chunk.js",
+    "main.js.map": "/Transform-3D-Visualizer/static/js/main.ede01476.chunk.js.map",
     "runtime-main.js": "/Transform-3D-Visualizer/static/js/runtime-main.5f5a1260.js",
     "runtime-main.js.map": "/Transform-3D-Visualizer/static/js/runtime-main.5f5a1260.js.map",
     "static/js/2.157f249b.chunk.js": "/Transform-3D-Visualizer/static/js/2.157f249b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5f5a1260.js",
     "static/js/2.157f249b.chunk.js",
     "static/css/main.428e87fd.chunk.css",
-    "static/js/main.a96055ce.chunk.js"
+    "static/js/main.ede01476.chunk.js"
   ]
 }
